@@ -7,6 +7,7 @@ RGB Code is based on Ishihara test which tests basic color recognition as well a
 Theophilus Thistle aims visually impaired and is based on aphasis.
 
 Challenges we ran into
+
 Combining results of all games to give a aggregate recommendation.
 
 TECHNOLOGIES USED
