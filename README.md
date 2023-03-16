@@ -11,5 +11,5 @@ Challenges we ran into
 Combining results of all games to give a aggregate recommendation.
 
 TECHNOLOGIES USED
-CSS3 , HTML5 , JAVASCRIPT , BOOTSTRAP 
+CSS3 , HTML5 , JAVASCRIPT , BOOTSTRAP .
 
